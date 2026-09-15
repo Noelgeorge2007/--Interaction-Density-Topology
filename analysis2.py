@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 plt.rcParams.update({'font.size':8,'axes.linewidth':0.6,'legend.frameon':False,
                      'font.family':'serif','mathtext.fontset':'dejavuserif',
                      'savefig.bbox':'tight','savefig.pad_inches':0.02})
-R=str(paths.RESULTS); P=str(paths.PAPER)
+R=str(paths.RESULTS); P=str(paths.ANALYSIS)
 A=json.load(open(f'{R}/setA.json'))
 NUM=json.load(open(f'{R}/numbers_partial.json')) if os.path.exists(f'{R}/numbers_partial.json') else {}
 def N(k,v): NUM[k]=v; return v

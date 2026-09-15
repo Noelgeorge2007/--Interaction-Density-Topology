@@ -1,0 +1,7 @@
+# Versions used for cached analysis verification; Python 3.13 on macOS arm64.
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.5
+matplotlib==3.10.9
+scikit-learn==1.9.1
+rdkit==2026.3.6

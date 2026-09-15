@@ -10,7 +10,7 @@ plt.rcParams.update({'font.size':8,'axes.linewidth':0.6,'xtick.major.width':0.6,
                      'ytick.major.width':0.6,'legend.frameon':False,
                      'font.family':'serif','mathtext.fontset':'dejavuserif',
                      'savefig.bbox':'tight','savefig.pad_inches':0.02})
-R=str(paths.RESULTS); P=str(paths.PAPER)
+R=str(paths.RESULTS); P=str(paths.ANALYSIS)
 A=json.load(open(f'{R}/setA.json'))
 NUM={}
 def num(k,v,fmt='{:.3f}'):
