@@ -1,0 +1,960 @@
+{
+ "ethene": {
+  "name": "ethene",
+  "smiles": "C=C",
+  "group": "reference",
+  "probe_centre": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -16.161670223312324,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 3.9352704221080184,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -0.6858969103997944,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": 0.5001420149307528,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "butadiene": {
+  "name": "butadiene",
+  "smiles": "C=CC=C",
+  "group": "reference",
+  "probe_centre": [
+   0.6331450000000001,
+   -1.047075,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -19.77607592633555,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 2.73384229409731,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -0.9922913091021291,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": 0.06073373037751072,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "hexatriene": {
+  "name": "hexatriene",
+  "smiles": "C=CC=CC=C",
+  "group": "reference",
+  "probe_centre": [
+   0.28069500000000003,
+   2.2160450000000003,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -21.63771591985121,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 1.4828005049657427,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -1.6592486629123826,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": 0.0025061544625814792,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "benzene": {
+  "name": "benzene",
+  "smiles": "c1ccccc1",
+  "group": "acene",
+  "probe_centre": [
+   0.0,
+   -3.700743415417188e-17,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -26.936392826654323,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 4.199836313366192,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -2.767437957798501,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.4013042695257363,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -26.626245477513102
+   ],
+   [
+    2.6,
+    -26.93639282517403
+   ],
+   [
+    3.0,
+    -23.61074971880815
+   ]
+  ],
+  "scan_Na+_dmin": 2.434121586662665,
+  "scan_Na+_emin": -27.24902135759868,
+  "scan_Cl-": [
+   [
+    2.8,
+    11.569783345918527
+   ],
+   [
+    3.2,
+    4.199836313152173
+   ],
+   [
+    3.6,
+    2.326314447550813
+   ]
+  ],
+  "scan_Cl-_dmin": 3.5363447556272383,
+  "scan_Cl-_emin": 2.2567161332961803
+ },
+ "naphthalene": {
+  "name": "naphthalene",
+  "smiles": "c1ccc2ccccc2c1",
+  "group": "acene",
+  "probe_centre": [
+   0.0019366666666666421,
+   1.2161233333333334,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -28.595320570911074,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 2.35095935676816,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.273393847361663,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.6142278363367435,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -29.09071073669313
+   ],
+   [
+    2.6,
+    -28.59532056798615
+   ],
+   [
+    3.0,
+    -25.497631949775077
+   ]
+  ],
+  "scan_Na+_dmin": 2.323853442897547,
+  "scan_Na+_emin": -29.21545577823941,
+  "scan_Cl-": [
+   [
+    2.8,
+    8.286000470775173
+   ],
+   [
+    3.2,
+    2.3509593593007145
+   ],
+   [
+    3.6,
+    1.2918322830185194
+   ]
+  ],
+  "scan_Cl-_dmin": 3.4868864437426748,
+  "scan_Cl-_emin": 1.096876835348354
+ },
+ "azulene": {
+  "name": "azulene",
+  "smiles": "C1=CC2=CC=CC=CC2=C1",
+  "group": "PAH",
+  "probe_centre": [
+   -0.07871285714285715,
+   -0.9117228571428573,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -28.030328367611208,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 0.8050186856821032,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.1473195247806927,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.6942607042018558,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "biphenyl": {
+  "name": "biphenyl",
+  "smiles": "c1ccc(-c2ccccc2)cc1",
+  "group": "biaryl",
+  "probe_centre": [
+   -0.0893316666666666,
+   -2.1325716666666668,
+   3.3333333333089112e-06
+  ],
+  "probe_normal": [
+   0.3632112580205891,
+   -0.01687886157638764,
+   0.9315539093788325
+  ],
+  "eint_Na+": -28.796538593429993,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 1.236246654525044,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.2757576687079486,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.7223474981955165,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "pyridine": {
+  "name": "pyridine",
+  "smiles": "c1ccncc1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -1.6666666666590817e-06,
+   3.700743415417188e-17,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -20.48093371042597,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 0.826318707786828,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.151803284582339,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.1795527266143215,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -19.122392161671264
+   ],
+   [
+    2.6,
+    -20.480933712155956
+   ],
+   [
+    3.0,
+    -18.317043652122297
+   ]
+  ],
+  "scan_Na+_dmin": 2.554273149994218,
+  "scan_Na+_emin": -20.503949993717583,
+  "scan_Cl-": [
+   [
+    2.8,
+    7.096111478824733
+   ],
+   [
+    3.2,
+    0.8263187063600367
+   ],
+   [
+    3.6,
+    -0.30235987314757434
+   ]
+  ],
+  "scan_Cl-_dmin": 3.4878158731470115,
+  "scan_Cl-_emin": -0.5045547262157299
+ },
+ "pyrimidine": {
+  "name": "pyrimidine",
+  "smiles": "c1cncnc1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -7.401486830834377e-17,
+   -3.700743415417188e-17,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -13.82047120659124,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": -2.687961586435121,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -2.991795420356628,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -0.9901876730087346,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "s-triazine": {
+  "name": "s-triazine",
+  "smiles": "c1ncncn1",
+  "group": "heteroarene",
+  "probe_centre": [
+   1.6666666666405778e-06,
+   9.25185853854297e-18,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -6.898315390686648,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": -6.477135505649906,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.7926202626249084,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -0.8476159629908765,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -2.962087232527426
+   ],
+   [
+    2.6,
+    -6.898315391293035
+   ],
+   [
+    3.0,
+    -7.019686311118112
+   ]
+  ],
+  "scan_Na+_dmin": 2.8127261296791013,
+  "scan_Na+_emin": -7.437788733654372,
+  "scan_Cl-": [
+   [
+    2.8,
+    -2.5892497552778515
+   ],
+   [
+    3.2,
+    -6.477135506505981
+   ],
+   [
+    3.6,
+    -5.952749450870261
+   ]
+  ],
+  "scan_Cl-_dmin": 3.352461128544255,
+  "scan_Cl-_emin": -6.797637356161204
+ },
+ "pyrrole": {
+  "name": "pyrrole",
+  "smiles": "c1cc[nH]c1",
+  "group": "heteroarene",
+  "probe_centre": [
+   0.0,
+   1.9999999999686936e-06,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -28.29718960817752,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 6.036538712374038,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.105965493805352,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.4084732980848005,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -28.453106791444007
+   ],
+   [
+    2.6,
+    -28.297189608819572
+   ],
+   [
+    3.0,
+    -23.834494533013686
+   ]
+  ],
+  "scan_Na+_dmin": 2.3855189019270036,
+  "scan_Na+_emin": -28.916317751795532,
+  "scan_Cl-": [
+   [
+    2.8,
+    13.980823049149617
+   ],
+   [
+    3.2,
+    6.0365387122313585
+   ],
+   [
+    3.6,
+    3.846090469563425
+   ]
+  ],
+  "scan_Cl-_dmin": 3.552277416790285,
+  "scan_Cl-_emin": 3.805140329108127
+ },
+ "furan": {
+  "name": "furan",
+  "smiles": "c1ccoc1",
+  "group": "heteroarene",
+  "probe_centre": [
+   2.0000000000353068e-06,
+   2.0000000000131022e-06,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -21.524215737624235,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 2.873181455705235,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -2.41738854123902,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -0.9344864953402965,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "thiophene": {
+  "name": "thiophene",
+  "smiles": "c1ccsc1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -3.8857805861880476e-17,
+   0.0,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -25.710675147311736,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 3.1227379999667186,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -2.805191834865781,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.2625356854992238,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -24.471121201376583
+   ],
+   [
+    2.6,
+    -25.710675147525752
+   ],
+   [
+    3.0,
+    -21.567009197830274
+   ]
+  ],
+  "scan_Na+_dmin": 2.4921050204251154,
+  "scan_Na+_emin": -25.906512088341813,
+  "scan_Cl-": [
+   [
+    2.8,
+    10.86655227502718
+   ],
+   [
+    3.2,
+    3.122738000894133
+   ],
+   [
+    3.6,
+    1.378406951609913
+   ]
+  ],
+  "scan_Cl-_dmin": 3.516298753336581,
+  "scan_Cl-_emin": 1.2470576650984526
+ },
+ "imidazole": {
+  "name": "imidazole",
+  "smiles": "c1c[nH]cn1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -4.4408920985006264e-17,
+   3.3306690738754695e-17,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -21.941952187961217,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 2.8327074884177574,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.1707509562973994,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.1848412052875212,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "indole": {
+  "name": "indole",
+  "smiles": "c1ccc2[nH]ccc2c1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -0.040016666666666735,
+   -0.9274233333333334,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -32.19193837356711,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 5.549057032113402,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.1671765358020325,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.6912355356884923,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "quinoline": {
+  "name": "quinoline",
+  "smiles": "c1ccc2ncccc2c1",
+  "group": "heteroarene",
+  "probe_centre": [
+   -0.07517166666666665,
+   1.18975,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -25.61127602976004,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 0.5351340693479347,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.4193239558495767,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.5424315908886976,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "toluene": {
+  "name": "toluene",
+  "smiles": "Cc1ccccc1",
+  "group": "shielding",
+  "probe_centre": [
+   0.006496666666666595,
+   -0.413885,
+   -0.0012449999999999998
+  ],
+  "probe_normal": [
+   5.857478875183626e-05,
+   -0.0037311701333172216,
+   -0.9999930374449766
+  ],
+  "eint_Na+": -28.31000901521387,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 3.9420287133510112,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.2693713081383966,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.5624832981932613,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "p-xylene": {
+  "name": "p-xylene",
+  "smiles": "Cc1ccc(C)cc1",
+  "group": "shielding",
+  "probe_centre": [
+   1.6666666666035705e-06,
+   -1.850371707708594e-17,
+   0.0
+  ],
+  "probe_normal": [
+   -0.0003333718559630368,
+   -0.0064481755926062406,
+   0.9999791547301037
+  ],
+  "eint_Na+": -29.017338651014086,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 3.0224542411346222,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.7771894005665643,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.7685326859106325,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "mesitylene": {
+  "name": "mesitylene",
+  "smiles": "Cc1cc(C)cc(C)c1",
+  "group": "shielding",
+  "probe_centre": [
+   2.6666666666679457e-05,
+   1.3333333333346667e-05,
+   -0.0030266666666666667
+  ],
+  "probe_normal": [
+   -0.004430002640638451,
+   -0.0023050523482256477,
+   -0.9999875308273979
+  ],
+  "eint_Na+": -30.299173559389914,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 2.7674594379640007,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -4.161075105782781,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.9331283727737365,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "hexamethylbenzene": {
+  "name": "hexamethylbenzene",
+  "smiles": "Cc1c(C)c(C)c(C)c(C)c1C",
+  "group": "shielding",
+  "probe_centre": [
+   -1.850371707708594e-17,
+   3.700743415417188e-17,
+   0.0
+  ],
+  "probe_normal": [
+   4.594750016149884e-08,
+   4.5947733501433036e-08,
+   0.9999999999999979
+  ],
+  "eint_Na+": -32.297825312391076,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 0.7542817180410578,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -5.086629667399409,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -2.464819670652494,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "fluorobenzene": {
+  "name": "fluorobenzene",
+  "smiles": "Fc1ccccc1",
+  "group": "substituted",
+  "probe_centre": [
+   -0.14297333333333337,
+   -0.360685,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -22.35314908797412,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 1.1117215443871338,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.0367441676311664,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.3259738050383476,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "hexafluorobenzene": {
+  "name": "hexafluorobenzene",
+  "smiles": "Fc1c(F)c(F)c(F)c(F)c1F",
+  "group": "substituted",
+  "probe_centre": [
+   -1.850371707708594e-17,
+   3.700743415417188e-17,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -1.9170016405034056,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": -13.634821297270301,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -5.606042499997958,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.2072370933795518,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    3.246934416256517
+   ],
+   [
+    2.6,
+    -1.917001639968359
+   ],
+   [
+    3.0,
+    -3.0052581858243417
+   ]
+  ],
+  "scan_Na+_dmin": 2.9068049185994447,
+  "scan_Na+_emin": -3.115878791436799,
+  "scan_Cl-": [
+   [
+    2.8,
+    -10.039635053699515
+   ],
+   [
+    3.2,
+    -13.63482129748432
+   ],
+   [
+    3.6,
+    -12.13480617276227
+   ]
+  ],
+  "scan_Cl-_dmin": 3.28224095447975,
+  "scan_Cl-_emin": -13.742514342878252
+ },
+ "phenol": {
+  "name": "phenol",
+  "smiles": "Oc1ccccc1",
+  "group": "substituted",
+  "probe_centre": [
+   0.036060000000000016,
+   0.39121333333333336,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -26.5788000136218,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 3.474123977488836,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -2.8230242605579012,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.4419745621934303,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "aniline": {
+  "name": "aniline",
+  "smiles": "Nc1ccccc1",
+  "group": "substituted",
+  "probe_centre": [
+   -0.06105833333333336,
+   -0.392375,
+   -0.004935000000000001
+  ],
+  "probe_normal": [
+   0.0021830116008879396,
+   0.014028513296463124,
+   0.9998992125584666
+  ],
+  "eint_Na+": -31.909114925530826,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": 7.30751536339972,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -3.3805840830059566,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.5548458678187445,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ },
+ "nitrobenzene": {
+  "name": "nitrobenzene",
+  "smiles": "O=[N+]([O-])c1ccccc1",
+  "group": "substituted",
+  "probe_centre": [
+   -0.00835833333333332,
+   -1.063625,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -15.021161086929983,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": -5.372702558285881,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -5.086771323204473,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.3565192051465575,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6,
+  "scan_Na+": [
+   [
+    2.2,
+    -13.056356802940446
+   ],
+   [
+    2.6,
+    -15.021161085324843
+   ],
+   [
+    3.0,
+    -13.683336491291875
+   ]
+  ],
+  "scan_Na+_dmin": 2.6379685221569025,
+  "scan_Na+_emin": -15.036039517943031,
+  "scan_Cl-": [
+   [
+    2.8,
+    0.0755899409192519
+   ],
+   [
+    3.2,
+    -5.372702557857843
+   ],
+   [
+    3.6,
+    -5.6296221683770185
+   ]
+  ],
+  "scan_Cl-_dmin": 3.4197958895305107,
+  "scan_Cl-_emin": -6.156441414434767
+ },
+ "benzonitrile": {
+  "name": "benzonitrile",
+  "smiles": "N#Cc1ccccc1",
+  "group": "substituted",
+  "probe_centre": [
+   0.03474000000000003,
+   -0.8424633333333333,
+   0.0
+  ],
+  "probe_normal": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "eint_Na+": -17.10240121843178,
+  "eint_Na+_conv": true,
+  "eint_Na+_d": 2.6,
+  "eint_Cl-": -4.072242297585201,
+  "eint_Cl-_conv": true,
+  "eint_Cl-_d": 3.2,
+  "eint_benzene": -4.395275736087353,
+  "eint_benzene_conv": true,
+  "eint_benzene_d": 3.4,
+  "eint_CH4": -1.382019205957106,
+  "eint_CH4_conv": true,
+  "eint_CH4_d": 3.6
+ }
+}

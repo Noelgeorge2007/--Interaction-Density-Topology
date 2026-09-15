@@ -1,0 +1,156 @@
+molecule,test,key,rel_range,ref
+benzene,rotation,piIDT0_n,0.0,2.0
+benzene,rotation,piIDT1_n,0.0,2.0
+benzene,rotation,piIDT1_totpers,0.029689222371183797,0.025409712558546432
+benzene,rotation,piIDT0_totpers,0.05914954907655849,0.036933857366123604
+benzene,rotation,Api_integral,5.020854605783559e-05,1.2731282300717743
+benzene,grid,piIDT0_n,0.0,2.0
+benzene,grid,piIDT1_n,0.0,2.0
+benzene,grid,piIDT1_totpers,0.020956561513156294,0.027064157064018005
+benzene,grid,piIDT0_totpers,0.0037106528547105173,0.039132780468629516
+benzene,grid,Api_integral,0.00011297787433456487,1.298265342966322
+benzene,padding,piIDT0_n,0.0,2.0
+benzene,padding,piIDT1_n,0.0,2.0
+benzene,padding,piIDT1_totpers,0.0,0.027064157064018005
+benzene,padding,piIDT0_totpers,0.0,0.039132780468629516
+benzene,padding,Api_integral,0.0009201933543552408,1.298265342966322
+benzene,basis,piIDT0_n,0.0,2.0
+benzene,basis,piIDT1_n,0.0,2.0
+benzene,basis,piIDT1_totpers,0.08881741781926066,0.027064157064018005
+benzene,basis,piIDT0_totpers,0.01957489628364251,0.039132780468629516
+benzene,basis,Api_integral,0.03539377170671214,1.298265342966322
+benzene,functional,piIDT0_n,0.0,2.0
+benzene,functional,piIDT1_n,0.0,2.0
+benzene,functional,piIDT1_totpers,0.01585321628714619,0.027064157064018005
+benzene,functional,piIDT0_totpers,0.009892089802649863,0.039132780468629516
+benzene,functional,Api_integral,0.023216966555047392,1.298265342966322
+benzene,mask,piIDT0_n,3.857142857142857,2.0
+benzene,mask,piIDT1_n,1.2857142857142856,2.0
+benzene,mask,piIDT1_totpers,2.2577420968981237,0.027064157064018005
+benzene,mask,piIDT0_totpers,4.801065343439,0.039132780468629516
+benzene,mask,Api_integral,1.9662738101588293,1.298265342966322
+benzene,jitter 0.01 AA,piIDT0_n,0.0,2.0
+benzene,jitter 0.01 AA,piIDT1_n,0.0,2.0
+benzene,jitter 0.01 AA,piIDT1_totpers,0.05280920448960974,0.025409712558546432
+benzene,jitter 0.01 AA,piIDT0_totpers,0.08302914371543788,0.036933857366123604
+benzene,jitter 0.01 AA,Api_integral,0.015173201896942075,1.2731282300717743
+benzene,jitter 0.03 AA,piIDT0_n,0.4,2.0
+benzene,jitter 0.03 AA,piIDT1_n,0.0,2.0
+benzene,jitter 0.03 AA,piIDT1_totpers,0.3096484361630946,0.025409712558546432
+benzene,jitter 0.03 AA,piIDT0_totpers,0.329285726664559,0.036933857366123604
+benzene,jitter 0.03 AA,Api_integral,0.05707276663800689,1.2731282300717743
+benzene,jitter 0.05 AA,piIDT0_n,0.7272727272727273,2.0
+benzene,jitter 0.05 AA,piIDT1_n,0.0,2.0
+benzene,jitter 0.05 AA,piIDT1_totpers,0.3742077580599468,0.025409712558546432
+benzene,jitter 0.05 AA,piIDT0_totpers,0.7103748715732249,0.036933857366123604
+benzene,jitter 0.05 AA,Api_integral,0.07678933116332251,1.2731282300717743
+pyridine,rotation,piIDT0_n,0.0,2.0
+pyridine,rotation,piIDT1_n,2.1,2.0
+pyridine,rotation,piIDT1_totpers,2.5037378451702716,0.025086156196421683
+pyridine,rotation,piIDT0_totpers,0.30259595704271275,0.4952317408408127
+pyridine,rotation,Api_integral,0.00010979973300791452,1.9110258153139132
+pyridine,grid,piIDT0_n,0.0,2.0
+pyridine,grid,piIDT1_n,0.0,2.0
+pyridine,grid,piIDT1_totpers,0.030676972912216268,0.02681851992155574
+pyridine,grid,piIDT0_totpers,0.15813048120247855,0.48296296324756827
+pyridine,grid,Api_integral,0.0012649746889885148,1.9346994885400952
+pyridine,padding,piIDT0_n,0.0,2.0
+pyridine,padding,piIDT1_n,0.0,2.0
+pyridine,padding,piIDT1_totpers,0.0,0.02681851992155574
+pyridine,padding,piIDT0_totpers,0.0,0.48296296324756827
+pyridine,padding,Api_integral,0.0004891699428407383,1.9346994885400952
+pyridine,basis,piIDT0_n,0.0,2.0
+pyridine,basis,piIDT1_n,0.0,2.0
+pyridine,basis,piIDT1_totpers,0.09653442300225631,0.02681851992155574
+pyridine,basis,piIDT0_totpers,0.01391993141509637,0.48296296324756827
+pyridine,basis,Api_integral,0.020309542067296387,1.9346994885400952
+pyridine,functional,piIDT0_n,0.0,2.0
+pyridine,functional,piIDT1_n,0.0,2.0
+pyridine,functional,piIDT1_totpers,0.012909639750094999,0.02681851992155574
+pyridine,functional,piIDT0_totpers,0.025320676906662214,0.48296296324756827
+pyridine,functional,Api_integral,0.01451291993741224,1.9346994885400952
+pyridine,mask,piIDT0_n,2.8125,2.0
+pyridine,mask,piIDT1_n,1.2857142857142856,2.0
+pyridine,mask,piIDT1_totpers,2.265237218178355,0.02681851992155574
+pyridine,mask,piIDT0_totpers,1.4722779883664405,0.48296296324756827
+pyridine,mask,Api_integral,1.5558160370428544,1.9346994885400952
+pyridine,jitter 0.01 AA,piIDT0_n,0.0,2.0
+pyridine,jitter 0.01 AA,piIDT1_n,0.0,2.0
+pyridine,jitter 0.01 AA,piIDT1_totpers,0.06981399083103323,0.025086156196421683
+pyridine,jitter 0.01 AA,piIDT0_totpers,0.04403699112827082,0.4952317408408127
+pyridine,jitter 0.01 AA,Api_integral,0.022725742386485493,1.9110258153139132
+pyridine,jitter 0.03 AA,piIDT0_n,0.0,2.0
+pyridine,jitter 0.03 AA,piIDT1_n,0.0,2.0
+pyridine,jitter 0.03 AA,piIDT1_totpers,0.40624769926686294,0.025086156196421683
+pyridine,jitter 0.03 AA,piIDT0_totpers,0.221232213781861,0.4952317408408127
+pyridine,jitter 0.03 AA,Api_integral,0.030576275882825247,1.9110258153139132
+pyridine,jitter 0.05 AA,piIDT0_n,1.0,2.0
+pyridine,jitter 0.05 AA,piIDT1_n,0.0,2.0
+pyridine,jitter 0.05 AA,piIDT1_totpers,0.5578673169436512,0.025086156196421683
+pyridine,jitter 0.05 AA,piIDT0_totpers,0.05204144807498208,0.4952317408408127
+pyridine,jitter 0.05 AA,Api_integral,0.08325859059406857,1.9110258153139132
+naphthalene,rotation,piIDT0_n,0.0,4.0
+naphthalene,rotation,piIDT1_n,1.693548387096774,4.0
+naphthalene,rotation,piIDT1_totpers,1.528234738273933,0.046261224143434976
+naphthalene,rotation,piIDT0_totpers,0.32402286631114535,0.5337213253019744
+naphthalene,rotation,Api_integral,4.191566250600508e-05,3.442732398034763
+naphthalene,grid,piIDT0_n,0.0,4.0
+naphthalene,grid,piIDT1_n,0.0,4.0
+naphthalene,grid,piIDT1_totpers,0.0424250360160524,0.049495950021626295
+naphthalene,grid,piIDT0_totpers,0.23009443315705405,0.5218950405101055
+naphthalene,grid,Api_integral,0.0002532191588553516,3.4738431419740774
+naphthalene,padding,piIDT0_n,0.0,4.0
+naphthalene,padding,piIDT1_n,0.0,4.0
+naphthalene,padding,piIDT1_totpers,0.0,0.049495950021626295
+naphthalene,padding,piIDT0_totpers,0.0,0.5218950405101055
+naphthalene,padding,Api_integral,0.0005643900904244277,3.4738431419740774
+naphthalene,basis,piIDT0_n,0.0,4.0
+naphthalene,basis,piIDT1_n,0.0,4.0
+naphthalene,basis,piIDT1_totpers,0.09295281320450852,0.049495950021626295
+naphthalene,basis,piIDT0_totpers,0.028272868664053714,0.5218950405101055
+naphthalene,basis,Api_integral,0.015472930997748262,3.4738431419740774
+naphthalene,functional,piIDT0_n,0.0,4.0
+naphthalene,functional,piIDT1_n,0.0,4.0
+naphthalene,functional,piIDT1_totpers,0.006387163783092949,0.049495950021626295
+naphthalene,functional,piIDT0_totpers,0.042634928858552024,0.5218950405101055
+naphthalene,functional,Api_integral,0.012892161317759578,3.4738431419740774
+naphthalene,mask,piIDT0_n,2.1176470588235294,4.0
+naphthalene,mask,piIDT1_n,1.2857142857142856,4.0
+naphthalene,mask,piIDT1_totpers,2.1431344117642825,0.049495950021626295
+naphthalene,mask,piIDT0_totpers,1.483656742725597,0.5218950405101055
+naphthalene,mask,Api_integral,1.3394148919943742,3.4738431419740774
+naphthalene,jitter 0.01 AA,piIDT0_n,0.0,4.0
+naphthalene,jitter 0.01 AA,piIDT1_n,0.0,4.0
+naphthalene,jitter 0.01 AA,piIDT1_totpers,0.02403480950511357,0.046261224143434976
+naphthalene,jitter 0.01 AA,piIDT0_totpers,0.014988687866522665,0.5337213253019744
+naphthalene,jitter 0.01 AA,Api_integral,0.013548340742091337,3.442732398034763
+naphthalene,jitter 0.03 AA,piIDT0_n,0.2222222222222222,4.0
+naphthalene,jitter 0.03 AA,piIDT1_n,0.0,4.0
+naphthalene,jitter 0.03 AA,piIDT1_totpers,0.10702109664627824,0.046261224143434976
+naphthalene,jitter 0.03 AA,piIDT0_totpers,0.058127154091149505,0.5337213253019744
+naphthalene,jitter 0.03 AA,Api_integral,0.025517734622643864,3.442732398034763
+naphthalene,jitter 0.05 AA,piIDT0_n,0.5714285714285714,4.0
+naphthalene,jitter 0.05 AA,piIDT1_n,0.23529411764705882,4.0
+naphthalene,jitter 0.05 AA,piIDT1_totpers,0.7267636583589422,0.046261224143434976
+naphthalene,jitter 0.05 AA,piIDT0_totpers,0.07187775750516583,0.5337213253019744
+naphthalene,jitter 0.05 AA,Api_integral,0.08032130090668521,3.442732398034763
+coronene,rotation,piIDT0_n,0.0,24.0
+coronene,rotation,piIDT1_n,1.4689265536723164,14.0
+coronene,rotation,piIDT1_totpers,1.405815783397262,0.21591559454368744
+coronene,rotation,piIDT0_totpers,0.20292231553060375,2.8800680907763634
+coronene,rotation,Api_integral,2.754607868460527e-05,13.782698111288914
+coronene,grid,piIDT0_n,0.0,24.0
+coronene,grid,piIDT1_n,0.0,14.0
+coronene,grid,piIDT1_totpers,0.026424115050651342,0.22872716134548954
+coronene,grid,piIDT0_totpers,0.18573649166001252,2.790934792560332
+coronene,grid,Api_integral,0.0004807870612334463,13.836749099605122
+coronene,padding,piIDT0_n,0.0,24.0
+coronene,padding,piIDT1_n,0.0,14.0
+coronene,padding,piIDT1_totpers,0.0,0.22872716134548954
+coronene,padding,piIDT0_totpers,0.0,2.790934792560332
+coronene,padding,Api_integral,0.0003312623444647766,13.836749099605122
+coronene,mask,piIDT0_n,0.8059701492537313,24.0
+coronene,mask,piIDT1_n,1.0588235294117647,14.0
+coronene,mask,piIDT1_totpers,1.5251716110287674,0.22872716134548954
+coronene,mask,piIDT0_totpers,0.5985268809057043,2.790934792560332
+coronene,mask,Api_integral,0.6265218788035203,13.836749099605122
